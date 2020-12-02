@@ -6,7 +6,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&color=003296&link=mailto:contato.claudenizio@gmail.com)](mailto:contato.claudenizio@gmail.com)
 [![RocketSeat Badge](https://img.shields.io/badge/-Rocketseat-6633cc?style=flat-square&logo=Polymer-Project&color=003296&link=https://app.rocketseat.com.br/me/claudeniziofilho)](https://app.rocketseat.com.br/me/claudeniziofilho)
 [![Codewars Badge](https://img.shields.io/badge/-Codewars-6633cc?style=flat-square&logo=Codewars&color=003296&link=https://www.codewars.com/users/Claudenizio%20Filho)](https://www.codewars.com/users/Claudenizio%20Filho)
-
 <hr>
 
 ```javascript
