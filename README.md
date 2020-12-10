@@ -13,7 +13,7 @@
     name: 'Claudenizio Filho',
     age: 17,
     city: 'São Paulo, SP',
-    stack: ['C#', 'JavaScript'],
+    stack: ['C#', 'JavaScript', 'HTML/CSS'],
     hobby: 'I love Programming'
   });
   return response.status(100).send();
