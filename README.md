@@ -1,5 +1,5 @@
 ## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Claudenizio Filho
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=claudeniziofilho&show_icons=true&bg_color=FFF&text_color=000&title_color=0000ff&icon_color=0000ff)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=claudeniziofilho&show_icons=true&bg_color=0d1117&text_color=fff&title_color=0000ff&icon_color=0000ff)
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-6633cc?style=flat-square&logo=Facebook&color=003296&link=https://www.facebook.com/Claudenizi01)](https://www.facebook.com/Claudenizi01)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=LinkedIn&color=003296&link=https://www.linkedin.com/in/claudeniziofilho)](https://www.linkedin.com/in/claudeniziofilho)
@@ -18,7 +18,3 @@
   });
   return response.status(100).send();
 ```
-
-
-
-
